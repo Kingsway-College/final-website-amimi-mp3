@@ -1,0 +1,86 @@
+body {
+    height: 100svh;
+    margin: 0px;
+    display: grid;
+    background-image: url(https://images.template.net/93820/white-line-background-gssh5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  header {
+    position: relative;
+    border: 100px,double,#F8F546;
+    border-width: 10px 10px 10px 10px;
+  }
+  .page2title {
+    color: #161819;
+    font-family: "Phudu", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  .navbar {
+    background-color:#F8F546;
+      text-decoration: none;
+      font-size: x-large;
+      display: flex;
+        justify-content: space-evenly;
+      margin: 0px;
+      align-items: center;
+      flex-direction: column;
+      padding: 0px 10px 0px 10px;
+      position: absolute;
+      width: 200px;
+      height: 100%;
+  }
+  .page2images {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  header{
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+  }
+  .page2paragraph {
+    margin: auto;
+    width: 50%;
+    padding: 8px;
+      text-align: center;
+      text-justify: center;
+  }
+  * {
+    color: #161819;
+  }
+  .navLinks {
+    padding: 10px;
+    border: 100px,double,#161819ad;
+    border-width: 10px 10px 10px 10px;
+  }
+  .icon {
+    border: none;
+  }
+  .b {
+    font-size: 80px;
+    font-weight: bold;
+  }
+  .b:hover {
+    background-color:#a19f37;
+  }
+  footer {
+    background-color: #f8f546a1;
+    border: double,7px;
+    border-color: #d4d13a;
+  }
+  *{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  .page2image{
+    width: 175px;
+    height: 175px;
+    margin-left: 2.5em;
+  }
